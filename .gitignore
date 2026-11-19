@@ -1,0 +1,15 @@
+# 原始数据（CSMAR 受授权协议约束，不要提交）
+data/
+*.dta
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
