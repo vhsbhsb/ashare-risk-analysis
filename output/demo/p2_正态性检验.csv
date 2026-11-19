@@ -1,0 +1,7 @@
+﻿检验,统计量,备注
+观测数 N,158,
+偏度 Skewness,-0.0257,正态为 0
+峰度 Kurtosis,3.5775,正态为 3
+Jarque-Bera,1.809,p = 4.048e-01
+D'Agostino K²（≈ sktest）,2.042,p = 3.602e-01
+Shapiro-Wilk,0.9858,p = 1.073e-01
